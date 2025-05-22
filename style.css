@@ -16,7 +16,7 @@
 
 body {
     color: var(--preto);
-    background-url: var(planodefundo.webp);
+    background-url: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
 
